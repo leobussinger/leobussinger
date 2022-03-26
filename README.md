@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @leobussinger
-- 👀 I’m interested in cars, music and technology
-- 🌱 I’m currently learning HTML5 and CSS3
+- 👋 Hi, I’m @leobussinger!
+- 👀 I’m a 25y brazilian interested in cars, music and cyber-security for Freedom!
+- 🌱 I’m currently learning Ethical Hacking with the 'Zero To Mastery Course' of Andrei Neagoie
 - 💞️ I’m looking to collaborate on anything I can!
 - 📫 How to reach me anywhere you look for @leonbussinger :)
 
